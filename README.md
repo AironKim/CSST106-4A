@@ -1,4 +1,8 @@
+https://github.com/user-attachments/assets/cf8ab7d1-375c-4f1d-82f8-3eec6180346d
+
+
 # Exploring the Role of Computer Visions and Image Processing in AI
+
 
 
 **Overview of Computer Vision** Computer vision is an area of artificial intelligence (AI) that focusses on teaching computers to interpret and comprehend visual information from their surroundings. This entails creating algorithms and models that enable machines to process, analyse, and comprehend images and videos in the same way that humans use their eyes and minds to experience their environment. 
